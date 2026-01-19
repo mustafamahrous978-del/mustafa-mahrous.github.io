@@ -157,7 +157,7 @@
         ====================== -->
         <section class="landing">
             <h1>Mustafa <span>Mahrous</span></h1>
-            <p>كله بالحب ❤️</p>
+            <p>كله بالحب  ❤️</p>
         </section>
 
         <!-- =====================
